@@ -39,23 +39,33 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-jarrar-91440b279)
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/tasneem-jarrar-91440b279)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=browserstack&logoColor=white)]([https://yourportfolio.com](https://github.com/smilling79))  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tjarrar07@gmail.com)
 
+
+
+
+
+## Let's Connect! 🚀
+
+📫 **Reach out to me:**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-jarrar-91440b279)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+- [![Twitter](https://img.shields.io/badge/Twitter-Tweet_At_Me-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+
+💬 **Let's chat about:**  
+- Coding challenges 🧠  
+- Open-source projects 🌍  
+- Tech trends 🚀  
+
 ---
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TasneemJarrar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TasneemJarrar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 Thanks for stopping by! 😊 Let's build something amazing together.
