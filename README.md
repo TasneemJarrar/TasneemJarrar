@@ -42,7 +42,10 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-jarrar-91440b279)  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)  
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
-- [![Email](https://img.shields.io/badge/-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tasneemjarrar048@gmail.com)  
+- [![Email](https://img.shields.io/badge/-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tasneemjarrar048@gmail.com)
+
+- [![Email](https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tasneemjarrar048@gmail.com)  
+ 
 
 💬 **Let's chat about:**  
 - Coding challenges 🧠  
