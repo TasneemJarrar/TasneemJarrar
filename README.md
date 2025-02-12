@@ -45,12 +45,6 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 
 ---
 
-## My GitHub Stats 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-
 ## Let's Connect! 🚀
 
 📫 **Reach out to me:**  
