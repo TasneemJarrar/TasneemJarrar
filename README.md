@@ -35,16 +35,6 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 
 ---
 
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-jarrar-91440b279)
-
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=browserstack&logoColor=white)]([https://yourportfolio.com](https://github.com/smilling79))  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tjarrar07@gmail.com)
-
-
-
-
 
 ## Let's Connect! 🚀
 
@@ -67,5 +57,8 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
+
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 Thanks for stopping by! 😊 Let's build something amazing together.
