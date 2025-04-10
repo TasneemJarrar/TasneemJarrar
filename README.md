@@ -37,19 +37,12 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 [![](https://visitcount.itsvg.in/api?id=TasneemJarrar&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-## 📂 Featured Projects
-
-### [📌 Project 1: Dog Image Classifier]([project-link](https://github.com/smilling79/Dog-Image-Classifier))
-🚀 **Description**: Image classifier to identify dog breeds (with Udacity)
-
-
----
 
 ## Let's Connect! 🚀
 
 📫 **Reach out to me:**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-jarrar-91440b279)  
-- [![Email](https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tasneemjarrar048@gmail.com)  
+- [![Email](https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tasneem.a.jarrar@gmail.com)  
  
 
 💬 **Let's chat about:**  
