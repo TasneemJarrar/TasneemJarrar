@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Tasneem
           
-I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate about Web Development and AI , exploring new technologies, and building exciting projects.
+I'm a passionate Computer Engineering student at PTUK - Tulkarm.  passionate about Web Development and AI, exploring new technologies, and building exciting projects.
 
 ---
 
@@ -8,7 +8,7 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 
 - 🎓 **Education**: Bachelor in Computer System Engineering (still in the third year)
 - 🌱 **Currently Learning**: Web development
-- 💡 **Interests**: AI, Web Development, BigData , Internet of Things (IoT)
+- 💡 **Interests**: AI, Web Development, BigData, Internet of Things (IoT)
 
 ---
 
@@ -25,18 +25,13 @@ I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate ab
 ### **Databases** 🗄️
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
 ---
 
 🎯 **Always learning and exploring new tools!** 🌱
 
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TasneemJarrar&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-
 
 ## Let's Connect! 🚀
 
