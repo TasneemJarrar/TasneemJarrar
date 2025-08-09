@@ -1,9 +1,4 @@
 # 👋 Hi there! I'm Tasneem
-<p><img src="" alt="Banner"><svg width="100%" height="100%" id="svg" viewBox="0 0 1440 490" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
-          .path-0{
-            animation:pathAnim-0 4s;
-            animation-timing-function: linear;
-            animation-iteration-count: infinite;}</style></svg>Hi there! I'm Tasneem</p>
           
 I'm a passionate Computer Engineering student at PTUK - Tulkarm .  passionate about Web Development and AI , exploring new technologies, and building exciting projects.
 
