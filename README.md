@@ -27,8 +27,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TasneemJarrar&show_icons=true&theme=tokyonight" alt="Tasneem's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TasneemJarrar&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TasneemJarrar&show_icons=true&theme=tokyonight" alt="Tasneem's GitHub stats" width="60%">
 </p> 
 
 
