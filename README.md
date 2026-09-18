@@ -1,6 +1,6 @@
 # Hey there, I'm Tasneem!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=F77DC5&width=435&lines=Computer+Engineering+Student;4th+Year+at+Khadouri+University;Full+Stack+Developer+in+Progress;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=F77DC5&width=435&lines=Computer+Engineering+Student;5th+Year+at+Khadouri+University;Full+Stack+Developer+in+Progress;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
